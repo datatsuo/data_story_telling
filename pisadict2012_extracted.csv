@@ -1,0 +1,20 @@
+code,description
+CNT,Country code 3-character
+OECD,OECD country
+ST49Q07,Math Behaviour - Computer programming
+IC02Q01,At school - Desktop Computer
+IC02Q02,At school - Portable laptop
+IC03Q01,First use of computers
+IC04Q01,First access to Internet
+IC10Q06,At School - Simulations
+IC22Q01,Attitudes - Useful for schoolwork
+ICTATTPOS,Attitudes Towards Computers: Computer as a Tool for School Learning
+ICTSCH,ICT Availability at School
+INSTMOT,Instrumental Motivation for Mathematics
+INTMAT,Mathematics Interest
+MATINTFC,Mathematics Intentions
+USEMATH,Use of ICT in Mathematic Lessons
+USESCH,Use of ICT at School
+PV1MATH,Plausible value 1 in mathematics
+PV1READ,Plausible value 1 in reading
+PV1SCIE,Plausible value 1 in science
